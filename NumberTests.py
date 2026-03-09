@@ -1,4 +1,7 @@
 #NumberTests.py
+#Name: Talia Astorino
+#Date: 03/08/2026
+#Purpose: Create a helper function to help solve Project Eulers Problems.
 
 def isThreeOrFive(n):
   """Returns boolean determination if number is multiple of 3 or 5"""
