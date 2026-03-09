@@ -13,7 +13,7 @@ def main():
   largest = 0
   
   for i in range(2, int(num ** 0.5) + 1):
-    if num % i = 0:
+    if num % i == 0:
       if NumberTests.isPrime(i):
         largest = i
 
