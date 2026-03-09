@@ -1,4 +1,4 @@
-#Problem2.py
+#Problem4.py
 #Project Euler problem 4
 #Name: Talia Astorino
 #Date: 03/08/2026
